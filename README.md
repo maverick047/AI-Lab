@@ -17,7 +17,6 @@ solve(a, Solution).
 depthfirst2(a, Solution, 3).
 ```
 
-These queries are part of the problem-solving toolkit, demonstrating the beauty of algorithmic thinking. Use them wisely!
 
 ---
 
